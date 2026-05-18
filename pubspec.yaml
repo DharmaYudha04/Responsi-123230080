@@ -1,10 +1,10 @@
-name: flutter_space_responsi
-description: Aplikasi responsi praktikum PAM berisi News, Blog, dan Report Spaceflight News API.
-publish_to: 'none'
+name: responsi_123230080
 version: 1.0.0+1
+publish_to: 'none'
+description: Responsi Mobile IF-A - Anak Agung Ngurah Dharma Yudha 123230080
 
 environment:
-  sdk: '>=3.3.0 <4.0.0'
+  sdk: '>=3.2.0 <4.0.0'
 
 dependencies:
   flutter:
@@ -12,6 +12,8 @@ dependencies:
   cupertino_icons: ^1.0.8
   http: ^1.2.2
   shared_preferences: ^2.3.2
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
   url_launcher: ^6.3.1
 
 dev_dependencies:
